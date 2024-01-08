@@ -1,3 +1,7 @@
+#create an sql database named contact_book
+#inside the contact_book database create table with name contact_register
+#contact_register should have following columns: varchar f_name, varchar l_name, varchar address, varchar contact(primary key), varchar email
+
 import re
 from functools import partial
 from tkinter import *
